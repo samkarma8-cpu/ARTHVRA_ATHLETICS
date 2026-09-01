@@ -196,7 +196,7 @@ export async function getDealProducts(limit?: number) {
   const products = await prisma.product.findMany({
     where: {
       status: "ACTIVE",
-      discountPrice: { not: null, gt: 0 },
+      discountPrice: { not:null,gt:0},
     },
     orderBy: { createdAt: "desc" },
     ...(limit ? { take: limit } : {}),
