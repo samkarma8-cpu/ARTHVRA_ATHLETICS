@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" fill="#f6f6f5"/>
+  <g transform="translate(300,290)">
+    <circle r="130" fill="none" stroke="#e6e6e4" stroke-width="2"/>
+    <circle r="106" fill="none" stroke="#e6e6e4" stroke-width="1"/>
+    <text text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#9b9b9b">ARTHVRA</text>
+  </g>
+  <text x="300" y="555" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="5" fill="#9b9b9b">PRODUCT IMAGE</text>
+</svg>
